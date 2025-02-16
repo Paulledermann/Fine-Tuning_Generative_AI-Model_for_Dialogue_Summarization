@@ -1,0 +1,1 @@
+This lab focuses on fine-tuning a Large Language Model (LLM) for improved dialogue summarization. Using the FLAN-T5 model, you'll explore full fine-tuning techniques and evaluate results using ROUGE metrics. Additionally, you'll implement Parameter Efficient Fine-Tuning (PEFT) and compare its benefits against traditional fine-tuning.
